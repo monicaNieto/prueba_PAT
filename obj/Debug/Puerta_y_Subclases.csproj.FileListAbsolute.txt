@@ -1,0 +1,8 @@
+C:\Users\Mónica\Documents\CSharp_PabloAvellaneda\CSharp_PabloAvellaneda\Puerta_y_Subclases\bin\Debug\Puerta_y_Subclases.exe.config
+C:\Users\Mónica\Documents\CSharp_PabloAvellaneda\CSharp_PabloAvellaneda\Puerta_y_Subclases\bin\Debug\Puerta_y_Subclases.exe
+C:\Users\Mónica\Documents\CSharp_PabloAvellaneda\CSharp_PabloAvellaneda\Puerta_y_Subclases\bin\Debug\Puerta_y_Subclases.pdb
+C:\Users\Mónica\Documents\CSharp_PabloAvellaneda\CSharp_PabloAvellaneda\Puerta_y_Subclases\obj\Debug\Puerta_y_Subclases.csproj.AssemblyReference.cache
+C:\Users\Mónica\Documents\CSharp_PabloAvellaneda\CSharp_PabloAvellaneda\Puerta_y_Subclases\obj\Debug\Puerta_y_Subclases.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mónica\Documents\CSharp_PabloAvellaneda\CSharp_PabloAvellaneda\Puerta_y_Subclases\obj\Debug\Puerta_y_Subclases.csproj.CoreCompileInputs.cache
+C:\Users\Mónica\Documents\CSharp_PabloAvellaneda\CSharp_PabloAvellaneda\Puerta_y_Subclases\obj\Debug\Puerta_y_Subclases.exe
+C:\Users\Mónica\Documents\CSharp_PabloAvellaneda\CSharp_PabloAvellaneda\Puerta_y_Subclases\obj\Debug\Puerta_y_Subclases.pdb
